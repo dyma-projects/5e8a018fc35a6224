@@ -17,11 +17,11 @@ Puis lancer le serveur de développement avec :
 `ng serve`
 
 ## Objectifs
-[ ] . Dans le composant 'exercice1' : Utilisez les décorateurs Output et Input pour faire fonctionner le compteur ( en utilisant les éléments html existants ). Pensez à afficher la valeur du compteur également dans le composant exercice1-enfant.
+[X] . Dans le composant 'exercice1' : Utilisez les décorateurs Output et Input pour faire fonctionner le compteur ( en utilisant les éléments html existants ). Pensez à afficher la valeur du compteur également dans le composant exercice1-enfant.
 
-[ ] . Dans le composant 'exercice2', Vous devez utiliser le décorateur Viewchild pour afficher le contenu de "valeur" dans le template.
+[X] . Dans le composant 'exercice2', Vous devez utiliser le décorateur Viewchild pour afficher le contenu de "valeur" dans le template.
 
-[ ] . Dans le composant de 'exercice3', utilisez la directive ng-content pour afficher le text contenu entre les balises <app-exercice3-enfant></app-exercice3-enfant>
+[X] . Dans le composant de 'exercice3', utilisez la directive ng-content pour afficher le text contenu entre les balises <app-exercice3-enfant></app-exercice3-enfant>
 
       
 ## Avant de finir le projet

@@ -6,11 +6,15 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./exercice1.component.css']
 })
 export class Exercice1Component implements OnInit {
-  public compteur: number = 0; 
+  // tslint:disable-next-line: no-inferrable-types
+  public result: number = 0;
 
   constructor() { }
 
   ngOnInit() {
+  }
+  updateResult(compteur: number): void {
+    this.result = compteur;
   }
 
 }
